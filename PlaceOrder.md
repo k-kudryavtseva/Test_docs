@@ -156,8 +156,8 @@
 </tr>
 <tr>
 <td>Ввести в поле “Name” строку “0000”, в поле “Country” - “USA”, в поле “City” - “xyz”, поле “Credit card” оставить пустым, в поле “Month” ввести строку “****”, в поле “Year” - “2020”. Нажать кнопку “Purchase”.</td>
-<td></td>
-<td></td>
+<td>Появляется pop-up с сообщением “Please fill out Name and Creditcard.” и кнопкой “OK”. Оплата не производится.</td>
+<td>Совпадает с ожидаемым.</td>
 </tr>
 <tr>
 <td>Оставить поле “Name” пустым, в поле “Country” ввести строку “0”, в поле “City” - “New York”, в поле “Credit card” - “0123 4567 0123 4567”, в поле “Month” ввести строку “july”, в поле “Year” - “0”. Нажать кнопку “Purchase”.</td>
