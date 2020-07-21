@@ -136,8 +136,8 @@
 <tbody>
 <tr>
 <td>Ввести в поле “Name” строку “Testname”, в поле “Country” - “0”, в поле “City” - “New York”, в поле “Credit card” - “**** **** **** ****”, в поле “Month” - “july”, в поле “Year” - “0”. Нажать кнопку “Purchase”.</td>
+<td>Появляется сообщение “Please enter a valid credit cart number.”. Оплата не производится.</td>
 <td>Появляется сообщение “Thank you for your purchase!” и информация о заказе.</td>
-<td></td>
 </tr>
 <tr>
 <td>Ввести в поле “Name” строку " " (один пробел), в поле “Country” - “USA”, в поле “City” - “0”, в поле “Credit card” - “0000 0000 0000 0000”, в поле “Month” - “0”, в поле “Year” - “2020”. Нажать кнопку “Purchase”.</td>
